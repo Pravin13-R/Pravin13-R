@@ -1,85 +1,102 @@
+# Pravin R | Frontend Developer
 
-# Hi, I'm Pravin R 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Frontend+Developer;React.js+%7C+JavaScript+%7C+Web+Development;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
-### Aspiring Frontend Developer | React.js | JavaScript | MERN Stack
-
-I'm a B.E. Mechanical Engineering graduate transitioning into software development. I'm currently strengthening my React.js and JavaScript skills while building practical web development projects.
-
-- 🔭 Currently building: **React.js projects and full-stack applications**
-- 🌱 Learning: **React.js, Node.js, Express.js, MongoDB**
-- 💻 Interested in: **Frontend Development and MERN Stack Development**
-- 🎯 Goal: Contribute to real-world software projects and grow as a developer
-- 📍 Based in Tamil Nadu, India
-- 🤝 Open to: Entry-level opportunities and collaboration
+<p align="center">
+  <a href="https://github.com/Pravin13-R">
+    <img src="https://img.shields.io/badge/GitHub-Pravin13--R-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pravin-r-mern/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+Hello! I'm **Pravin R**, a B.E. Mechanical Engineering graduate transitioning into software development.
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+I'm focused on building responsive, user-friendly web applications and strengthening my frontend development skills through practical projects.
+
+- Currently learning and building with **React.js and JavaScript**
+- Exploring full-stack development with the **MERN stack**
+- Interested in frontend development, UI implementation, and web application development
+- Improving my problem-solving and coding skills through hands-on practice
+- Open to entry-level developer opportunities and collaborative projects
+
+## Technical Skills
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="HTML, CSS, JavaScript, React and Bootstrap"/>
+</p>
+
+### Backend and Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express and MongoDB"/>
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
+</p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. Hire Flow — Recruitment Management System
-A project focused on organizing recruitment workflows and managing hiring-related information.
+
+A recruitment-focused web development project.
 
 - Explore the implemented recruitment modules and workflows.
-- Review the source code and technologies used.
+- Review the project structure and source code.
 
-🔗 [View Repository](https://github.com/Pravin13-R/Hire_Flow)
-
+**Repository:** [Pravin13-R/Hire_Flow](https://github.com/Pravin13-R/Hire_Flow)
 
 ### 2. Job Portal — Job Listing Application
-A web development project focused on job listings and recruitment-related functionality.
+
+A web application project focused on job listings and recruitment-related functionality.
 
 - Explore the implemented job portal features.
-- Review the application structure and source code.
+- Review the source code and application structure.
 
-🔗 [View Repository](https://github.com/Pravin13-R/Job-Portal)
+**Repository:** [Pravin13-R/Job-Portal](https://github.com/Pravin13-R/Job-Portal)
 
 ### 3. Personal Portfolio
-A portfolio website showcasing my developer profile, technical skills, and projects.
 
-- Explore my development work and projects.
-- View my portfolio source code.
+A portfolio project showcasing my developer profile and web development work.
 
-🔗 [View Repository](https://github.com/Pravin13-R/Portfolio_)
+- Explore the portfolio source code.
+- Review the structure and implementation.
+
+**Repository:** [Pravin13-R/Portfolio_](https://github.com/Pravin13-R/Portfolio_)
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pravin13-R&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin13-R&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages" />
+</p>
+
+## Let's Connect
+
+<p>
+  <a href="https://github.com/Pravin13-R">GitHub Profile</a> ·
+  <a href="https://www.linkedin.com/in/pravin-r-mern/">LinkedIn Profile</a>
+</p>
+
+**Email:** rameshpravin1@gamil.com
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravin13-R&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin13-R&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Pravin13--R-181717?style=for-the-badge&logo=github)](https://github.com/Pravin13-R)
-
-📧 Email: rameshpravin1@gamil.com
-
-💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/pravin-r-mern/)
-
----
-
-⭐ I'm continuously learning, building projects, and improving my software development skills.
+<p align="center">
+  <i>Learning continuously. Building practical projects. Growing as a developer.</i>
+</p>
